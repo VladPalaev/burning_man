@@ -1,2 +1,2 @@
-# burning_man
-my site
+
+https://VladPalaev.github.io/burning_man/
